@@ -67,7 +67,7 @@
                                     <thead>
                                     <tr class="info">
                                         <th width="20%" class="text-center">字段</th>
-                                        <th width="22%" class="text-center">java字段</th>
+                                        <th width="22%" class="text-center">javaType</th>
                                         <th width="16%" class="text-center">类型</th>
                                         <th width="10%" class="text-center">为空</th>
                                         <th width="5%" class="text-center">键</th>
